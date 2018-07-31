@@ -1,0 +1,105 @@
+20:58 23/05/2017[23.05.2017 20:54:29]
+Hook Started... Timer started
+
+[23.05.2017 20:55:08]
+Mail was not sent! Error code: 259
+
+[23.05.2017 20:55:08]
+<From SendMail> Return code: 0
+
+[23.05.2017 20:55:41]
+Mail was not sent! Error code: 3
+
+[23.05.2017 20:56:13]
+Mail was not sent! Error code: 2
+
+[23.05.2017 20:56:44]
+Mail was not sent! Error code: 2
+
+[23.05.2017 20:57:16]
+Mail was not sent! Error code: 2
+
+[23.05.2017 20:58:50]
+Mail was not sent! Error code: 2
+
+[23.05.2017 20:59:21]
+Mail was not sent! Error code: 2
+
+[23.05.2017 20:59:52]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:00:24]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:00:55]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:01:26]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:01:57]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:02:29]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:03:00]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:03:31]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:04:02]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:04:33]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:05:05]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:05:36]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:06:07]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:06:38]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:07:10]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:07:41]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:08:12]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:10:12]
+Hook Started... Timer started
+
+[23.05.2017 21:10:44]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:10:44]
+<From SendMail> Return code: 0
+
+[23.05.2017 21:11:15]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:11:46]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:12:18]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:12:49]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:13:20]
+Mail was not sent! Error code: 2
+
+[23.05.2017 21:13:51]
+Mail was not sent! Error code: 2
+

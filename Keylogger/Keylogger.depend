@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1495536986 source:c:\users\chibuzo\documents\c++\keylogger\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"io.h"
+	"timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1495111219 c:\users\chibuzo\documents\c++\keylogger\keylogger\helper.h
+	<string>
+	<ctime>
+	<sstream>
+	<fstream>
+
+1495535949 c:\users\chibuzo\documents\c++\keylogger\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1495108558 c:\users\chibuzo\documents\c++\keylogger\keylogger\base64.h
+	<vector>
+	<string>
+
+1495119731 c:\users\chibuzo\documents\c++\keylogger\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1495285313 c:\users\chibuzo\documents\c++\keylogger\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1495570137 c:\users\chibuzo\documents\c++\keylogger\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"io.h"
+	"timer.h"
+	"Helper.h"
+
+1495569069 c:\users\chibuzo\documents\c++\keylogger\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"timer.h"
+	"SendMail.h"
+
